@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/precache-manifest.0b4095c7a1908b747f3b0a19d2a7e1ad.js"
+  "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/precache-manifest.fabc9c25cc52fe774107b96e28b7465e.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
