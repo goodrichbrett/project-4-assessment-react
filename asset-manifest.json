@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/css/main.15dfb2c0.chunk.css",
-    "main.js": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/main.91c20d90.chunk.js",
-    "main.js.map": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/main.91c20d90.chunk.js.map",
-    "runtime-main.js": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/runtime-main.b1035abb.js",
-    "runtime-main.js.map": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/runtime-main.b1035abb.js.map",
-    "static/js/2.7e260883.chunk.js": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js",
-    "static/js/2.7e260883.chunk.js.map": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js.map",
-    "index.html": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/index.html",
-    "precache-manifest.f43ea00c857f512de25d31e9aa876667.js": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/precache-manifest.f43ea00c857f512de25d31e9aa876667.js",
-    "service-worker.js": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/service-worker.js",
-    "static/css/main.15dfb2c0.chunk.css.map": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/css/main.15dfb2c0.chunk.css.map",
-    "static/js/2.7e260883.chunk.js.LICENSE.txt": "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js.LICENSE.txt"
+    "main.css": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/css/main.15dfb2c0.chunk.css",
+    "main.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/main.fe29defe.chunk.js",
+    "main.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/main.fe29defe.chunk.js.map",
+    "runtime-main.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/runtime-main.3858b61c.js",
+    "runtime-main.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/runtime-main.3858b61c.js.map",
+    "static/js/2.7e260883.chunk.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js",
+    "static/js/2.7e260883.chunk.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js.map",
+    "index.html": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/index.html",
+    "precache-manifest.0b4095c7a1908b747f3b0a19d2a7e1ad.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/precache-manifest.0b4095c7a1908b747f3b0a19d2a7e1ad.js",
+    "service-worker.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/service-worker.js",
+    "static/css/main.15dfb2c0.chunk.css.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/css/main.15dfb2c0.chunk.css.map",
+    "static/js/2.7e260883.chunk.js.LICENSE.txt": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/static/js/2.7e260883.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1035abb.js",
+    "static/js/runtime-main.3858b61c.js",
     "static/js/2.7e260883.chunk.js",
     "static/css/main.15dfb2c0.chunk.css",
-    "static/js/main.91c20d90.chunk.js"
+    "static/js/main.fe29defe.chunk.js"
   ]
 }

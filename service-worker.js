@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/precache-manifest.f43ea00c857f512de25d31e9aa876667.js"
+  "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/precache-manifest.0b4095c7a1908b747f3b0a19d2a7e1ad.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/goodrichbrett/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react.git/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
