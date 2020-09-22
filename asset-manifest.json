@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/css/main.15dfb2c0.chunk.css",
-    "main.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/main.373cabc5.chunk.js",
-    "main.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/main.373cabc5.chunk.js.map",
-    "runtime-main.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/runtime-main.0f67fc9a.js",
-    "runtime-main.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/runtime-main.0f67fc9a.js.map",
-    "static/js/2.7e260883.chunk.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/2.7e260883.chunk.js",
-    "static/js/2.7e260883.chunk.js.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/2.7e260883.chunk.js.map",
-    "index.html": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/index.html",
-    "precache-manifest.fabc9c25cc52fe774107b96e28b7465e.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/precache-manifest.fabc9c25cc52fe774107b96e28b7465e.js",
-    "service-worker.js": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/service-worker.js",
-    "static/css/main.15dfb2c0.chunk.css.map": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/css/main.15dfb2c0.chunk.css.map",
-    "static/js/2.7e260883.chunk.js.LICENSE.txt": "/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20project-4-assessment-react/static/js/2.7e260883.chunk.js.LICENSE.txt"
+    "main.css": "/project-4-assessment-react/static/css/main.15dfb2c0.chunk.css",
+    "main.js": "/project-4-assessment-react/static/js/main.390d644c.chunk.js",
+    "main.js.map": "/project-4-assessment-react/static/js/main.390d644c.chunk.js.map",
+    "runtime-main.js": "/project-4-assessment-react/static/js/runtime-main.e8b3ce6b.js",
+    "runtime-main.js.map": "/project-4-assessment-react/static/js/runtime-main.e8b3ce6b.js.map",
+    "static/js/2.7e260883.chunk.js": "/project-4-assessment-react/static/js/2.7e260883.chunk.js",
+    "static/js/2.7e260883.chunk.js.map": "/project-4-assessment-react/static/js/2.7e260883.chunk.js.map",
+    "index.html": "/project-4-assessment-react/index.html",
+    "precache-manifest.6fb014772a96b54c15a18c5c09bb0fcb.js": "/project-4-assessment-react/precache-manifest.6fb014772a96b54c15a18c5c09bb0fcb.js",
+    "service-worker.js": "/project-4-assessment-react/service-worker.js",
+    "static/css/main.15dfb2c0.chunk.css.map": "/project-4-assessment-react/static/css/main.15dfb2c0.chunk.css.map",
+    "static/js/2.7e260883.chunk.js.LICENSE.txt": "/project-4-assessment-react/static/js/2.7e260883.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f67fc9a.js",
+    "static/js/runtime-main.e8b3ce6b.js",
     "static/js/2.7e260883.chunk.js",
     "static/css/main.15dfb2c0.chunk.css",
-    "static/js/main.373cabc5.chunk.js"
+    "static/js/main.390d644c.chunk.js"
   ]
 }
